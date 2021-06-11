@@ -1,11 +1,5 @@
 # allSubs
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#install">Install</a> •
-  <a href="#usage">Usage</a>
-</p>
-
 ## About
 It is a tool for searching subdomains.
 Combined automate [assetfinder](https://github.com/tomnomnom/assetfinder), [subfinder](https://github.com/projectdiscovery/subfinder), [chaos](https://github.com/projectdiscovery/chaos-client), [crt.sh](https://crt.sh/) and [github-search](https://github.com/gwen001/github-search).
