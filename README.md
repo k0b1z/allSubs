@@ -1,6 +1,4 @@
 # allSubs
-
-## About
 It is a tool for searching subdomains.
 Combined automate [assetfinder](https://github.com/tomnomnom/assetfinder), [subfinder](https://github.com/projectdiscovery/subfinder), [chaos](https://github.com/projectdiscovery/chaos-client), [crt.sh](https://crt.sh/) and [github-search](https://github.com/gwen001/github-search).
 To use the tool, you must have previously installed: [GO](https://golang.org/), [python3](https://www.python.org/downloads/), [jq](https://stedolan.github.io/jq/) and [Git](https://git-scm.com/) .
