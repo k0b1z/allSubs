@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#install">Install</a> •
-  <a href="#usage">Usage</a> •
+  <a href="#usage">Usage</a>
 </p>
 
 # About
