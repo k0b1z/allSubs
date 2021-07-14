@@ -1,5 +1,5 @@
 # allSubs
-It is a tool for searching subdomains.
+It's a tool for searching subdomains.
 Combined automate [assetfinder](https://github.com/tomnomnom/assetfinder), [subfinder](https://github.com/projectdiscovery/subfinder), [chaos](https://github.com/projectdiscovery/chaos-client), [crt.sh](https://crt.sh/) and [github-search](https://github.com/gwen001/github-search).
 To use the tool, you must have previously installed: [GO](https://golang.org/), [python3](https://www.python.org/downloads/), [jq](https://stedolan.github.io/jq/) and [Git](https://git-scm.com/) .
 
@@ -16,7 +16,7 @@ Or you can also install the dependencies yourself. They are: [assetfinder](https
 
 ## Usage
 ```
-python3 python3 allSubs.py domainExample.com reconExample.txt
+python3 allSubs.py domainExample.com reconExample.txt
 ```
 domainExample.com can be replaced by the host that will be scanned.
 reconExample.txt must be changed to the name of the file that will save the subdomains at the end of the scanner.
