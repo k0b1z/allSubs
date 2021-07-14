@@ -14,6 +14,9 @@ python3 requirements.py
 ```
 Or you can also install the dependencies yourself. They are: [assetfinder](https://github.com/tomnomnom/assetfinder), [subfinder](https://github.com/projectdiscovery/subfinder), [chaos](https://github.com/projectdiscovery/chaos-client), [anew](https://github.com/tomnomnom/anew) and [github-search](https://github.com/gwen001/github-search) .
 
+## Keys
+To use the tools [chaos](https://github.com/projectdiscovery/chaos-client) and [github-search](https://github.com/gwen001/github-search), it is necessary to insert their keys in the config.yml file. 
+
 ## Usage
 ```
 python3 allSubs.py domainExample.com reconExample.txt
